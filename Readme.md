@@ -1,8 +1,9 @@
 # Decentralized Safe Path Following for Multi-Quadrotor Systems
 
 <p align="center">
-  <img src="quad_anim_4.gif" alt="Four-quadrotor simulation animation" width="700">
+  <img src="quad_animation.gif" alt="Four-quadrotor simulation animation" width="700">
 </p>
+
 This repository contains the simulation code used to reproduce the main results for the paper on decentralized safe path following for multiple quadrotors on intersecting paths.
 
 The implementation simulates a team of quadrotors with:
