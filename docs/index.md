@@ -4,9 +4,9 @@ permalink: /
 
 title: Decentralized Safe Path Following for Multi-Quadrotor Systems
 authors:
-  - Your Name
+  - Hamza Tariq, Adeel Akhtar
 affiliations:
-  - Your Lab / University
+  - GRaDS-Lab / New Jersey Institute of Technology 
 paper:
 video:
 code: https://github.com/gradslab/tfl_cbf_safe_multiagent_pf
