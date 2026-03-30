@@ -4,8 +4,7 @@ permalink: /
 
 title: Decentralized Safe Path Following for Multiple Quadrotors on Intersecting Paths
 authors:
-  - Hamza Tariq
-  - Adeel Akhtar
+  - Hamza Tariq, Adeel Akhtar
 affiliations:
   - GRaDS-Lab / New Jersey Institute of Technology
 paper:
