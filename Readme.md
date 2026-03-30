@@ -1,4 +1,4 @@
-# Decentralized Safe Path Following for Multi-Quadrotor Systems
+# Decentralized Safe Path Following for Multiple Quadrotors on Intersecting Paths
 
 <p align="center">
   <img src="./docs/static/image/quad_animation.gif" alt="Four-quadrotor simulation animation" width="700">
