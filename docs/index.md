@@ -9,7 +9,7 @@ affiliations:
   - GRaDS-Lab / New Jersey Institute of Technology 
 paper:
 video:
-code: https://github.com/gradslab/tfl_cbf_safe_multiagent_pf
+code: https://github.com/gradslab/safe_multiquad_pf
 data:
 ---
 
