@@ -12,7 +12,8 @@ video:
 code: https://github.com/gradslab/safe_multiquad_pf
 data:
 ---
-<div class="columns is-centered">
+
+<div class="columns is-centered" style="margin-top: -6.5rem;">
   <div class="column is-four-fifths has-text-centered">
     <div class="buttons is-centered" style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
       <a class="button is-link is-medium" href="#sinusoidal-simulation">
@@ -25,6 +26,7 @@ data:
   </div>
 </div>
 
+
 ## Abstract
 
 This paper studies decentralized safe path following for multiple quadrotors on intersecting paths, where safety requires both collision avoidance and strict adherence to pre-assigned routes. The proposed controller reformulates transverse feedback linearization as a constrained quadratic program with four equality constraints: two enforce convergence to and strict adherence on the path, and two prescribe the desired speed and orientation. Safety is achieved by relaxing only the speed and orientation constraints. Under the stated assumptions, the controller guarantees that all agents converge to their assigned paths, remain on them for all time, avoid collisions, and operate away from attitude singularities.
@@ -34,7 +36,7 @@ This paper studies decentralized safe path following for multiple quadrotors on 
 <div class="columns is-centered is-variable is-5">
   <div class="column is-three-fifths">
     <div class="box" style="border-radius: 14px;">
-      <figure class="image" style="margin: 0;">
+      <figure class="image" style="margin: -10;">
         <img
           src="./static/image/traj_xy_sine_anim.gif"
           alt="2D sinusoidal-path animation"
@@ -46,7 +48,7 @@ This paper studies decentralized safe path following for multiple quadrotors on 
 
   <div class="column is-two-fifths">
     <div class="box" style="border-radius: 14px;">
-      <figure class="image" style="margin: 0;">
+      <figure class="image" style="margin: -10;">
         <img
           src="./static/image/traj_xy_circle.gif"
           alt="2D circular-path animation"
